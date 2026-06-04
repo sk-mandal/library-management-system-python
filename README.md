@@ -24,15 +24,6 @@ A simple Library Management System built using Python. This project allows users
 * Loops
 * Conditional Statements
 
-## Project Structure
-
-```text
-Library-Management-System/
-│
-├── library_management_system.py
-└── README.md
-```
-
 ## How It Works
 
 ### 1. Sign Up
@@ -106,7 +97,3 @@ This project demonstrates the use of:
 * Update book details
 * Password encryption
 * Graphical User Interface (GUI)
-
-## Author
-
-Made with Python as a practice project for learning programming fundamentals.
